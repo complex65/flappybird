@@ -1,0 +1,2 @@
+g++ main.cpp -o flappy -lsfml-graphics -lsfml-window -lsfml-system
+./flappy
